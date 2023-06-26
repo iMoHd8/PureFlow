@@ -13,7 +13,7 @@ with open("README.txt", "r") as f:
 
 setup(
   name='PureFlow',
-  version='0.0.1',
+  version='1.0.0',
   description='Data Cleaning Tool',
   long_description=long_description,
   long_description_content_type="text/markdown",

@@ -10,7 +10,7 @@ This tool is designed to clean datasets by removing null values, special charact
 5. Install the cleaning tool using the this commands:
    pip install PureFlow
 6. Import The PureFlow Package and start using It:
-   from PureFlow import PureFlow as pf
+   import PureFlow as pf
    pf.clean_dataset()
    pf.remove_nulls()
 
@@ -29,7 +29,7 @@ This tool is designed to clean datasets by removing null values, special charact
 
 ## Example Usage:
 pip install PureFlow
-from PureFlowTest import PureFlow as pf
+import PureFlow as pf
 pf.clean_dataset('dataset name', ['columns name'])
 Cleaning in progress...
 Cleaned dataset:
