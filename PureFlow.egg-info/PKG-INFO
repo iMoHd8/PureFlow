@@ -1,17 +1,23 @@
 Metadata-Version: 2.1
 Name: PureFlow
-Version: 1.0.0
+Version: 1.0.1
 Summary: Data Cleaning Tool
 Home-page: https://github.com/iMoHd8/PureFlow
 Author: Mohammed Mahameed
 Author-email: iMoHd8@hotmail.com
 License: MIT
-Keywords: Data,DataCleaning,Cleaning,Machine Learning,Data Cleaning,Data Process
-Classifier: Development Status :: 5 - Production/Stable
-Classifier: Intended Audience :: Science/Research
+Keywords: PureFlow,Data,DataCleaning,Cleaning,Machine Learning,Data Cleaning,data science,Data Process
+Classifier: Topic :: Scientific/Engineering
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
 Classifier: Operating System :: Microsoft :: Windows :: Windows 10
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Natural Language :: English
 Description-Content-Type: text/markdown
 License-File: LICENSE.txt
 
