@@ -1,0 +1,8 @@
+LICENSE.txt
+README.txt
+setup.py
+PureFlow.egg-info/PKG-INFO
+PureFlow.egg-info/SOURCES.txt
+PureFlow.egg-info/dependency_links.txt
+PureFlow.egg-info/requires.txt
+PureFlow.egg-info/top_level.txt
